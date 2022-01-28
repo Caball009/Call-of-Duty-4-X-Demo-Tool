@@ -1,7 +1,7 @@
 # Call of Duty 4 (X) Demo Tool
 
 Public release(s) for the CoD4(X) Demo Tool.  
-For downloads, please refer to the [Release](https://github.com/Caball009/Call-of-Duty-4-X-Demo-Tool/releases/]) page.
+For downloads, please refer to the [Release](https://github.com/Caball009/Call-of-Duty-4-X-Demo-Tool/releases/) page.
 
 ## Features:
 
