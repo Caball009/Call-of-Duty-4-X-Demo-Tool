@@ -48,6 +48,6 @@ I may or may not be here once in a while: https://discord.com/invite/NYey3vH / c
 
 - The code is based off parts of the Quake III Arena and Call of Duty 4 code.
 
-- Cheers to the devs from CoD4X for simultaneously creating the problem of incompatible demos, as well as making much of the needed code to rectify this problem publicly available.  
+- Cheers to the devs from CoD4X for simultaneously creating the problem of incompatible demos, as well as making much of the code needed to rectify this problem publicly available.  
 - Cheers to Iswenzz for parts of the C++ code related to reading / parsing of demos.  
 - Cheers to Du[R]eX for the code for the interactive .html page, and kudos for creating the first (public) CoD4 demo manager.
