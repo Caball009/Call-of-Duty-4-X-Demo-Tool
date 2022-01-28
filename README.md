@@ -5,7 +5,7 @@ For downloads, please refer to the [Release](https://github.com/Caball009/Call-o
 
 ## Features:
 
-- Convert demos from and to all currently existing Call of Duty 4 X versions;
+- Convert demos from and to all currently existing Call of Duty 4 X versions (v15 - v20);
 - Convert demos from and to Call of Duty 4 X and pre-Call of Duty 4 X (v1.7);
 - Remove all hud elements from a demo, with the options to keep the stack score, hitmarker and team skulls;
 - Modify the stack score with a multiplier (e.g. to convert +50 per kill to +10, or vice versa);
@@ -13,7 +13,7 @@ For downloads, please refer to the [Release](https://github.com/Caball009/Call-o
 - Experimental: merge demos (only applies to demos on the same map & mod & game type);
 - Remove all big center texts;
 - Remove all white text from mini console / killfeed;
-- Remove all chat;
+- Remove all chat.
 
 ## Usage:
 
@@ -46,8 +46,8 @@ I may or may not be here once in a while: https://discord.com/invite/NYey3vH / c
 
 ## Credits:
 
-- The code is based off parts of the Quake III Arena and Call of Duty 4 code.
+- The code is based off parts of the Quake III Arena and Call of Duty 4 code;
 
-- Cheers to the devs from CoD4X for simultaneously creating the problem of incompatible demos, as well as making much of the code needed to rectify this problem publicly available.  
-- Cheers to Iswenzz for parts of the C++ code related to reading / parsing of demos.  
+- Cheers to the devs from CoD4X for simultaneously creating the problem of incompatible demos, as well as making much of the code needed to rectify this problem publicly available;  
+- Cheers to Iswenzz for parts of the C++ code related to reading / parsing of demos;  
 - Cheers to Du[R]eX for the code for the interactive .html page, and kudos for creating the first (public) CoD4 demo manager.
