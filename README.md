@@ -1,7 +1,7 @@
 # Call of Duty 4 (X) Demo Tool
 
-Public releases for CoD4(X) Demo Tool.  
-For downloads, please refer to Release page.
+Public release(s) for the CoD4(X) Demo Tool.  
+For downloads, please refer to the [Release](https://github.com/Caball009/Call-of-Duty-4-X-Demo-Tool/releases/]) page.
 
 ## Features:
 
@@ -12,12 +12,12 @@ For downloads, please refer to Release page.
 - Cut demos by map, match or time stamps;
 - Experimental: merge demos (only applies to demos on the same map & mod & game type);
 - Remove all big center texts;
-- Remove all white text from miniconsole / killfeed;
+- Remove all white text from mini console / killfeed;
 - Remove all chat;
 
 ## Usage:
 
-Check the included readme file.
+Check the readme file that is included in the archive.
 
 ## Requirements:
 
@@ -34,7 +34,7 @@ or misuse. Basically, you use it at YOUR OWN RISK.
 
 ## Bug report:
 
-Please open issues here.
+Please open [Issues](https://github.com/Caball009/Call-of-Duty-4-X-Demo-Tool/issues) here.
 
 ## Contact:
 
