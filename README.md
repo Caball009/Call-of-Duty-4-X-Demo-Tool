@@ -1,7 +1,7 @@
 # Call of Duty 4 (X) Demo Tool
 
 Public release(s) for the CoD4(X) Demo Tool.  
-For downloads, please refer to the [Release](https://github.com/Caball009/Call-of-Duty-4-X-Demo-Tool/releases/) page.
+For downloads, please refer to the [Release](https://github.com/Caball009/Call-of-Duty-4-X-Demo-Tool/releases) page.
 
 ## Features:
 
@@ -36,6 +36,18 @@ or misuse. Basically, you use it at YOUR OWN RISK.
 
 Please open [Issues](https://github.com/Caball009/Call-of-Duty-4-X-Demo-Tool/issues) here.
 
+## Miscellaneous:
+
+If you're interested in the source code, have a look at [this](https://github.com/Iswenzz/CoD4-DM1) repository. At the time of writing this, it contains all the core code necessary to read and write CoD4(X) demos.
+
 ## Contact:
 
-I should be here once in a while: https://discord.com/invite/NYey3vH / codmvm's Discord channel
+I may or may not be here once in a while: https://discord.com/invite/NYey3vH / codmvm's Discord channel
+
+## Credits:
+
+- The code is based off parts of the Quake III Arena and Call of Duty 4 code.
+
+- Cheers to the devs from CoD4X for simultaneously creating the problem of incompatible demos, as well as making much of the needed code to rectify this problem publicly available.  
+- Cheers to Iswenzz for parts of the C++ code related to reading / parsing of demos.  
+- Cheers to Du[R]eX for the code for the interactive .html page, and kudos for creating the first (public) CoD4 demo manager.
