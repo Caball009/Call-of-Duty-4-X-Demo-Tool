@@ -7,7 +7,7 @@ For downloads, please refer to the [Release](https://github.com/Caball009/Call-o
 
 - Convert demos from and to all currently existing Call of Duty 4 X versions (v15 - v20);
 - Convert demos from and to Call of Duty 4 X and pre-Call of Duty 4 X (v1.7);
-- Remove all hud elements from a demo, with the options to keep the stack score, hitmarker and team skulls;
+- Remove all hud elements from a demo, with the options to keep the stack score, hitmarker and team skulls. Hud elements like minimap, scores, xp bar and ammo are not stored in demos. This feature is meant for hud elements like kill cards or other hud elements that tend to be server specific;
 - Modify the stack score with a multiplier (e.g. to convert +50 per kill to +10, or vice versa);
 - Cut demos by map, match or time stamps;
 - Experimental: merge demos (only applies to demos on the same map & mod & game type);
